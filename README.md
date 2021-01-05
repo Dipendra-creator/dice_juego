@@ -1,4 +1,4 @@
-# dice_juego
+# Dice Game
 
 A new Flutter application.
 
